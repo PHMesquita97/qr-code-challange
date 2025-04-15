@@ -84,4 +84,4 @@ During this project, I practiced and reinforced important concepts such as:
 ## 🤝 Acknowledgments
 
 Special thanks to Frontend Mentor for providing awesome challenges.  
-And shoutout to **@kipperdev** for reminding me about media queries and content centering.
+And shoutout to [@kipperdev](https://www.youtube.com/@kipperdev) for reminding me about media queries and content centering.
