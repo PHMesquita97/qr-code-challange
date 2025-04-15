@@ -29,7 +29,7 @@ Durante esse projeto, pude praticar e reforçar conceitos importantes como:
 
 - Criação de cartões responsivos com max-width, border-radius.
 
-- Organização semântica com <main>, <h1>, <p> e <img>
+- Organização semântica com main, h1, p e img
 
 ## Autor
 
@@ -41,7 +41,7 @@ Durante esse projeto, pude praticar e reforçar conceitos importantes como:
 Frontend Mentor por fornecer desafios incríveis.
 @kipperdev por me lembrar media querries e centralização.
 
-==============================================================================================
+============================================================================================
 
 # Frontend Mentor - QR Code Component Solution
 
