@@ -26,6 +26,8 @@ main{
     height: 100vh;           /* Altura da tela toda */
     justify-content: center; /* Alinha no eixo horizontal */
     align-items: center;     /* Alinha no eixo vertical */
+    margin-left: 2rem;
+    margin-right: 2rem;
     
 }
 
@@ -39,11 +41,6 @@ section{
 .qr-code img{
     border-radius: 1rem;
     width: 100%;
-}
-
-section article{
-    padding-left: 1.6rem;
-    padding-right: 1.6rem;
 }
 
 article{
@@ -64,4 +61,11 @@ p{
     font-size: 1.5rem;
     line-height: 140%;
     letter-spacing: 0.2px;
+}
+
+@media (min-width: 470px) {
+    main{
+        width: 420px;
+        margin: 0 auto;
+    }
 }
